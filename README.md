@@ -110,7 +110,7 @@ Simulation and analysis of ECG biomedical signals with peak detection and BPM es
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadabh98&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="nadabh98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadabh98&show_icons=true&locale=en&theme=tokyonight" alt="nadabh98" /></p>
+
 
 # 📫 Contact Me
 
