@@ -114,6 +114,12 @@ Simulation and analysis of ECG biomedical signals with peak detection and BPM es
 </p>
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nadabh98&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="nadabh98" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadabh98&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="nadabh98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadabh98&show_icons=true&locale=en&theme=tokyonight" alt="nadabh98" /></p>
+
 # 📫 Contact Me
 
 📧 Email: nadabh91@gmail.com
